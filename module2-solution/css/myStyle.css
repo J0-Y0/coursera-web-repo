@@ -13,12 +13,14 @@ h2 {
 /* positioning the top right title */
 section {
     position: relative;
-
     border: 1px solid black;
     background-color: #a8e0ff;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+
+
+
     margin-bottom: 20px;
     font-family: Helvetica;
     color: rgb(1, 1, 1);
